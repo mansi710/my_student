@@ -1,0 +1,25 @@
+form{
+    height:500px;
+    width:500px;
+    text-align: center;
+    background-color: aquamarine;
+    justify-content: center;
+    padding-top: 10px;
+     margin-left: 350px;
+}
+h1{
+    padding-top: 10px;
+    margin-left: 350px;
+}
+.btn{
+    background-color: yellowgreen;
+    height: 30px;
+    width: 100px;
+    padding:5px;
+}
+#listOfStudents{
+    margin-left:10px;
+}
+form .error {
+    color: #ff0000;
+}
